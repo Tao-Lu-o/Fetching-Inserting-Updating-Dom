@@ -1,0 +1,9 @@
+html, body{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.pokeBall{
+    display:flexbox;
+    flex-wrap:wrap;
+    flex-direction: column;
+}
